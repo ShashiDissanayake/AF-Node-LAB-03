@@ -1,2 +1,1 @@
-Hello Sewmini!
-Welcome to NodeJS Lab.
+Hello World!
